@@ -1,0 +1,7 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "cmake.sourceDirectory": "/home/jashan/testing_Rover/cmake_starter",
+    "files.associations": {
+        "xboxcontroller.h": "c"
+    }
+}
